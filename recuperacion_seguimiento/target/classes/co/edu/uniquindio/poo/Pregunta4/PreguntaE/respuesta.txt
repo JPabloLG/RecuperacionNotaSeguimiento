@@ -1,0 +1,4 @@
+La opcion correcta es la opcion B
+
+La salida esperada es ConcurrentModificationError debido a que se intenta 
+modificar el TreeSet después de haber creado un iterador.

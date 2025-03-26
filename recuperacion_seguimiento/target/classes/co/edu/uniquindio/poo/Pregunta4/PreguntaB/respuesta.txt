@@ -1,0 +1,4 @@
+La respuesta es la opcion C
+
+La salida sería ConcurrentModificationError porque TreeMap.keySet() está respaldado 
+por el mapa y no permite modificaciones estructurales durante su iteración.
